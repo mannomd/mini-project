@@ -11,8 +11,30 @@ h1 {
   display: block;
 }
 
-.seco{
-  display: none;
+#sAdd{
+   width: 100%;
+   text-align: center;
+   display :block;
+}
+#link:active{
+  color: white;
+  font-family: "Core Sans N W01 35 Light";
+  text-decoration: none;
+}
+#link:visited{
+  color: white;
+  font-family: "Core Sans N W01 35 Light";
+  text-decoration: none;
+}
+#link:link{
+  color: white;
+  font-family: "Core Sans N W01 35 Light";
+  text-decoration: none;
+}
+#link:hover{
+  color: white;
+  font-family: "Core Sans N W01 35 Light";
+  text-decoration: underline;
 }
 .sec_title{
   text-align: center;
@@ -94,7 +116,7 @@ body{
   color: #fff;
   background-color:#f0f0f0;
   font-family:helvetica;
-  background:url('http://clevertechie.com/img/bnet-bg.jpg') #0f2439 no-repeat center top;
+  background:url('bg.jpg') #0f2439 no-repeat center top;
 }
 
 .body-content{
